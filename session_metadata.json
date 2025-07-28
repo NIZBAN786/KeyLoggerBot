@@ -1,0 +1,12 @@
+{
+  "project": {
+    "project": "Cybersecurity Internship Project #3",
+    "objective": "Keylogger with Encrypted Data Exfiltration",
+    "student": "Educational Purpose Only",
+    "date": "July 28, 2025"
+  },
+  "session_end": "2025-07-28T01:35:02.830245",
+  "key_file": "encryption.key",
+  "log_file": "encrypted_keystrokes.log",
+  "educational_mode": true
+}
