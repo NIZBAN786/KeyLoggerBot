@@ -1,0 +1,7 @@
+decrypted_logs_for_dashboard.json
+# Ignore decrypted logs for dashboard
+encrypted_keystrokes.log
+# Ignore encrypted keystrokes log
+encryption.key
+# Ignore encryption key
+session_metadata.json
