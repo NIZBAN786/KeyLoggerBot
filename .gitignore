@@ -5,3 +5,9 @@ encrypted_keystrokes.log
 encryption.key
 # Ignore encryption key
 session_metadata.json
+# Ignore session metadata
+dist
+educational-keylogger.spec
+# Ignore distribution directory
+build
+# Ignore build directory
